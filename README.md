@@ -1,2 +1,2 @@
 # bcd-numbers
-bcd numbers check for 11 and 3
+بررسی قابلیت بخش پذیر بودن بر 11 و 3 برای اعداد در کد بی سی دی 
